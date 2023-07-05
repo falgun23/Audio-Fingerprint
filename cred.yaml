@@ -1,0 +1,5 @@
+mysql_host: 'localhost'
+mysql_user: 'Roney'
+mysql_password: 'root'
+mysql_db: 'audio'
+mysql_port: 3306
